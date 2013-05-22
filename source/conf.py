@@ -164,7 +164,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'ART3DDocsdoc'
+htmlhelp_basename = 'ART3Ddoc'
 
 
 # -- Options for LaTeX output --------------------------------------------------
@@ -183,7 +183,7 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'ART3DDocs.tex', u'ART3D Docs Documentation',
+  ('index', 'ART3DDocs.tex', u'ART3D Documentation',
    u'Maxim Korinets', 'manual'),
 ]
 
@@ -213,7 +213,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'art3ddocs', u'ART3D Docs Documentation',
+    ('index', 'art3ddocs', u'ART3D Documentation',
      [u'Maxim Korinets'], 1)
 ]
 
@@ -227,7 +227,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'ART3DDocs', u'ART3D Docs Documentation',
+  ('index', 'ART3DDocs', u'ART3D Documentation',
    u'Maxim Korinets', 'ART3DDocs', 'One line description of project.',
    'Miscellaneous'),
 ]
@@ -240,3 +240,4 @@ texinfo_documents = [
 
 # How to display URL addresses: 'footnote', 'no', or 'inline'.
 #texinfo_show_urls = 'footnote'
+language = 'ru'

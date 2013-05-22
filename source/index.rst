@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to ART3D Docs's documentation!
-======================================
+Welcome to ART3D documentation!
+===============================
 
 Contents:
 
