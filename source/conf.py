@@ -40,7 +40,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'ART3D Docs'
+project = u'ART3D'
 copyright = u'2013, Maxim Korinets'
 
 # The version info for the project you're documenting, acts as replacement for
